@@ -1,7 +1,7 @@
 // This changes the title of your site
 
-var sitename = "Bens Unblocked Games"; // Change this to change the name of your website.
-var subtext = "v1.2"; // set the subtext
+var sitename = "Luh Nate's Unblocked games"; // Change this to change the name of your website.
+var subtext = "v1"; // set the subtext
 
 // more settings in main.css
 
